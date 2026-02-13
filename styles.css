@@ -29,3 +29,8 @@ button {
     border:none;
     border-radius:5px;
 }
+.result {
+    margin-top:20px;
+    padding:10px;
+    border-radius:5px;
+}
