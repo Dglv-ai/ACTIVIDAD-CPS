@@ -1,0 +1,1 @@
+// Lógica inicial JavaScript
