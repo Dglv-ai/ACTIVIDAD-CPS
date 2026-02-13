@@ -38,3 +38,7 @@ button {
 .reprobado { background:#f8d7da; color:#721c24; }
 .error { color:red; }
 .hidden { display:none; }
+
+@media (max-width:480px){
+    .container { width:90%; }
+}
