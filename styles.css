@@ -25,3 +25,15 @@ body {
   border-radius: 12px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
+
+/* RESPONSIVE (MÓVIL) */
+@media (max-width: 480px) {
+  .container {
+    padding: 18px;
+    border-radius: 10px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+}
