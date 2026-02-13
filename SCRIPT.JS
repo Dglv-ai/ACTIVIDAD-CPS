@@ -21,7 +21,10 @@ function mostrarResultado(promedio) {
 }
 
 form.addEventListener("submit", function(event){
+    event.preventDefault();
 
+    errorMessage.textContent="";
+    resultSection.classList.add("hidden");
 
     const evaluacion = evaluarPromedio(promedio);
     resultText.textContent = `Promedio: ${promedio} - ${evaluacion.estado}`;
