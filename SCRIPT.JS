@@ -15,4 +15,8 @@ function convertirANumero(n1, n2, n3) {
 }function calcularPromedio(n1, n2, n3) {
     return (n1 + n2 + n3) / 3;
 }
+function mostrarResultado(promedio) {
+    const resultado = document.getElementById("resultado");
+    resultado.innerText = "Promedio: " + promedio.toFixed(2);
+}
 
