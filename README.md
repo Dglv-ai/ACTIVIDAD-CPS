@@ -24,3 +24,4 @@ Solo abrir el archivo `index.html` en el navegador.
 - HTML5
 - CSS3
 - JavaScript
+## Calculadora testeada y funcionando
