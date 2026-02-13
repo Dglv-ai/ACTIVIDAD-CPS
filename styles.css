@@ -36,3 +36,5 @@ button {
 }
 .aprobado { background:#d4edda; color:#155724; }
 .reprobado { background:#f8d7da; color:#721c24; }
+.error { color:red; }
+.hidden { display:none; }
