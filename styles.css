@@ -20,3 +20,12 @@ body {
 }
 label { display:block; margin-top:10px; }
 input { width:100%; padding:8px; margin-bottom:10px; }
+
+button {
+    width:100%;
+    padding:10px;
+    background:#3498db;
+    color:white;
+    border:none;
+    border-radius:5px;
+}
