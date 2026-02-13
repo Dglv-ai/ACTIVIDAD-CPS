@@ -6,3 +6,10 @@ function capturarValores() {
 
     return { nota1, nota2, nota3 };
 }
+function convertirANumero(n1, n2, n3) {
+    return {
+        n1: Number(n1),
+        n2: Number(n2),
+        n3: Number(n3)
+    };
+}
