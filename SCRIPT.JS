@@ -20,3 +20,7 @@ function mostrarResultado(promedio) {
     resultado.innerText = "Promedio: " + promedio.toFixed(2);
 }
 
+form.addEventListener("submit", function(event){
+
+
+});
