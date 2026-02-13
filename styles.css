@@ -34,3 +34,5 @@ button {
     padding:10px;
     border-radius:5px;
 }
+.aprobado { background:#d4edda; color:#155724; }
+.reprobado { background:#f8d7da; color:#721c24; }
